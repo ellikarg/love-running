@@ -185,6 +185,8 @@ hr {
     border-radius: 50%;
 }
 
+/* meeting times section */
+
 #times {
     background-image: url('../images/dublin-city.webp');
     background-repeat: no-repeat;
@@ -208,4 +210,25 @@ hr {
 
 #times h2 {
     color: #fafafa;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+footer ul {
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+}
+
+footer i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
